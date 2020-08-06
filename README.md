@@ -1,0 +1,2 @@
+# DynamicCompany
+Dynamic website generation
